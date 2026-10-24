@@ -8,7 +8,7 @@ Développements, logiciels libres et recherche · *Software, open source and res
 
 | Projet | Description | Téléchargement |
 |---|---|---|
-| [**3D-Patch**](https://github.com/OMNIA-AI-Group/3D-Patch) | Modeleur 3D pour l'impression 3D : réparation, booléens, évidement, préparation et envoi au trancheur. Rust + OpenCASCADE · Linux & Windows · FR/EN/ES/IT/DE · *3D modeler for 3D printing* | [v0.1.0](https://github.com/OMNIA-AI-Group/3D-Patch/releases/latest) |
+| [**3D-Patch**](https://github.com/OMNIA-AI-Group/3D-Patch) | Modeleur 3D pour l'impression 3D : réparation, booléens, évidement, texte & images en relief, préparation et envoi au trancheur. Rust + OpenCASCADE · Linux & Windows · FR/EN/ES/IT/DE · *3D modeler for 3D printing* | [![Dernière version](https://img.shields.io/github/v/release/OMNIA-AI-Group/3D-Patch?label=&color=f2c94c)](https://github.com/OMNIA-AI-Group/3D-Patch/releases/latest) |
 
 Tous mes développements : [étiquette `dev`](https://github.com/OMNIA-AI-Group?tab=repositories&q=topic%3Adev) · *All my software: `dev` topic*
 
